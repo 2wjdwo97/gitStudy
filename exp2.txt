@@ -1,0 +1,3 @@
+private void function2(int a){
+	printf("%d", a);
+}
