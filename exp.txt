@@ -1,0 +1,3 @@
+public int function(){
+	return 10; //return 10
+}
